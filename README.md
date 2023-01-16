@@ -12,5 +12,5 @@ This is a cusorm slider made using mui you can select price range from 0k to Any
   From 2000k to 500k: Increment price by 50k
   
   From 500k to 1000k: Increment price by 100k
-# Opn in sandbox
+# Open in sandbox
   https://codesandbox.io/s/youthful-blackburn-548xx5?file=/demo.js
